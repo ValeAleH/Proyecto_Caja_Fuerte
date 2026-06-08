@@ -8,6 +8,7 @@ Sistema de caja fuerte inteligente basado en coprocesamiento entre un **ESP32** 
 
 ## Arquitectura del Sistema
 
+![Arquitectura del sistema](inc/arquitectura.png)
 
 ### Distribución de tareas
 
